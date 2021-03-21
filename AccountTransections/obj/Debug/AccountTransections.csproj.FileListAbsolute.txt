@@ -1,0 +1,7 @@
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountTransections\AccountTransections\bin\Debug\AccountTransections.exe.config
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountTransections\AccountTransections\bin\Debug\AccountTransections.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountTransections\AccountTransections\bin\Debug\AccountTransections.pdb
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountTransections\AccountTransections\obj\Debug\AccountTransections.csprojAssemblyReference.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountTransections\AccountTransections\obj\Debug\AccountTransections.csproj.CoreCompileInputs.cache
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountTransections\AccountTransections\obj\Debug\AccountTransections.exe
+C:\Users\NATASHA\Desktop\Aiub\oop2_spring21\AccountTransections\AccountTransections\obj\Debug\AccountTransections.pdb
